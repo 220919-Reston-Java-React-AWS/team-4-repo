@@ -1,0 +1,22 @@
+Standup Meeting 9/21
+
+Daniel R.
+-Started coding menu system for project 1
+-Will start working on menu prompts
+
+Jack L.
+-Spent yesterday doing menu system for project 1 as well as other parts
+-Reviewed terms from yesterday's lecture such as exceptions
+-Put ASCII art into system
+
+Tatiana L.
+-Went over lecture video
+-Reviewed Bach's code
+-Started building and playing around with code for project 1
+
+Yasin A
+-Used concepts used from lecture to play around with menu system for project 1
+
+Charles B.
+-Started working on projecting
+-Some troubles with pushing into Git Hub from IDE
