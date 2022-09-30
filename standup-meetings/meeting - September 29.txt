@@ -1,0 +1,21 @@
+Yasin
+- reviewed week 1 for 1-on-1
+- reviewed this week material & started planning for project 1
+
+Jack
+- did the repository layer for project 1
+- looked into to understanding Javalin more for project 1
+
+
+Daniel
+- reviewed week 1 material
+- worked on the repository layer for project 1
+
+Tatiana
+- went over SQL code for repository layer
+- reviewed week 1 material for 1-on-1
+
+Charles
+- worked on setting up dependencies for maven
+- taking time reviewing SQL to understand more how to do it
+
