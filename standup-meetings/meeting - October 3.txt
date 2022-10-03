@@ -1,0 +1,21 @@
+Yasin
+ - worked on project 1 on paper
+   - going to convert to code 
+ - reviewed material for qc
+
+Charles
+ - going to work on project 1
+ - reviewed material for qc
+
+jack
+ - reviewed material
+ - going to work on project 1
+
+Tatiana
+ - reviewed last week material (especially Friday from absentence)
+ - going to work on project 1
+
+Daniel 
+ - worked on project 1
+   - going to look into PreparedStatement
+ - reviewed last week material for qc
