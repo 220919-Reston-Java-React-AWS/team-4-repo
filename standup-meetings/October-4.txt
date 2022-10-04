@@ -1,0 +1,19 @@
+Charles B.
+-Working on project
+-Prepared for QC coding challenge
+-Start running program and finish it tomorrow
+Daniel Rivera
+-Practiced SQLBolt
+-Reviewed for QC
+-Figured out preparedstatement problem
+-Practicing joins
+Tatiana
+-Studied for QC and worked on project 1
+-Reviewing postman
+Jack L.
+-Studied and did SQLBolt
+-Worked on project
+Yasin A.
+-I reviewed QC
+-Start writing unit tests 
+-Review all parts of program
