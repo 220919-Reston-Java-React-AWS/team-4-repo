@@ -1,0 +1,21 @@
+Daily Standups
+
+Daniel - What did he do yesterday?
+Worked on project 1
+Completed MVP, began unit testing
+
+Issues - not exactly, Mockito was a bit of a struggle
+
+Yasin - What did he do yesterday?
+Project 1, completed MVP, began writing unit testing
+Reviewed for one on ones
+
+Charles
+Worked on project, intends to MVP today
+Staying positive
+
+Jack
+Worked on project, hopes for MVP today, studied for one on ones
+
+Tatiana
+Worked on project, hopes for MVP today, studied for one on ones
