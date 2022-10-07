@@ -1,0 +1,8 @@
+	
+
+1.	Yasin: He finished the unit test yesterday. He has no issue
+2.	Jack: He finished the code yesterday. But he noticed that he is missing two requirements and Unit Testing. 
+3.	Tatiana: She finished everything yesterday.
+4.	Daniel: He finished everything yesterday. He is ready for presentation.
+5.	Charles: he is still working to complete the project.
+
